@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-If you are looking for the SleekDB main repository then please go here: https://github.com/rakibtg/SleekDB 
+📣 SleekDB main repository (https://github.com/rakibtg/SleekDB) has been moved to https://github.com/SleekDB/SleekDB 
